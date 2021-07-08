@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptedAlgorithm", "EncryptedAlgorithm\EncryptedAlgorithm.csproj", "{60DA7175-3396-4C8A-8F74-FDCB43A1A185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60DA7175-3396-4C8A-8F74-FDCB43A1A185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DA7175-3396-4C8A-8F74-FDCB43A1A185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DA7175-3396-4C8A-8F74-FDCB43A1A185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DA7175-3396-4C8A-8F74-FDCB43A1A185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AA68362-B6ED-4E2F-8E84-7F5C43C0FE35}
+	EndGlobalSection
+EndGlobal
